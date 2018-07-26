@@ -50,7 +50,7 @@ const styledButton = styled.button.attrs({
     transition:
       box-shadow 140ms ease,
       left 140ms ease;
-    z-index: -1;
+    z-index: -2;
   }
 
   &:hover {
